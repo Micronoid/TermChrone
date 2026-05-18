@@ -1,12 +1,4 @@
-```text
-  _____                     _____ _                     
- |_   _|__ _ __ _ __ ___   / ____| |                    
-   | |/ _ \ '__| '_ ` _ \ | |    | |__  _ __ ___  _ __   
-   | |  __/ |  | | | | | || |____| '_ \| '__/ _ \| '_ \  
-   |_|\___|_|  |_| |_| |_| \_____|_| |_|_| \___/|_| |_| 
-                                                         
-   [TUI Xray-based VPN / Proxy client for Linux]
-```
+## TermChrone
 
 TermChrone is a lightweight, terminal-based (TUI) client designed to manage Xray VPN and proxy connections on Linux.
 
@@ -26,18 +18,22 @@ Before building the project, ensure you have the following installed:
 # Build from Source
 
 Building the project is as simple as running a single command. Make sure you have make and a compatible compiler (like g++) installed:
-Bash
 
 # Clone the repository
+
+```bash
 git clone https://github.com/Micronoid/TermChrone.git
 cd TermChrone
 
-# Compile the project
+# Compile the project (ignore the warnings, it's my bad code, but it works! :) )
+
 make
 
+```
 ⚙️ Usage
 
 (You can add instructions on how to run your binary here later, for example:)
+
 ```bash
 ./termchrone
 ```
