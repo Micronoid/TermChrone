@@ -1,6 +1,6 @@
 # TermChrone
 
-TermChrone is a lightweight, terminal-based (TUI) client designed to manage Xray VPN and proxy connections on Linux.
+TermChrone is a terminal-based (TUI) client designed to manage Xray VPN and proxy connections on Linux.
 
 Important Note
     Guys, I'm off to the army for a year. Take care of this good boy! :D > If you are up to do some upgrading, feel free to open Issues or Pull Requests. Just remember: I'll be checking them with a pretty big delay. Thanks everyone, stay safe! 🫡
